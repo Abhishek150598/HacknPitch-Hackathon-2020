@@ -1,0 +1,7 @@
+All the files could not be included due to file size issue.
+You can check them all here in the link given below :-
+
+https://drive.google.com/open?id=1iFURZBWqV65Hko86hMGMzEyy33qM703w
+
+In 'videos' folder the contained video is a sample video and after running the code it produces another video in 
+'output' folder that shows the detection of vehicles and the count of vehicles are shown at bottom right corner.
